@@ -1,0 +1,271 @@
+prolife
+post: 1 	 23 	 24 	 80 	 1 	 mixed
+post: 2 	 0 	 1 	 4 	 0 	 neutral
+post: 3 	 5 	 5 	 20 	 1 	 mixed
+post: 4 	 26 	 10 	 70 	 19 	 mixed
+post: 5 	 1 	 0 	 1 	 0 	 neutral
+post: 6 	 4 	 0 	 7 	 0 	 pro-choice
+post: 7 	 1 	 3 	 8 	 0 	 mixed
+post: 8 	 20 	 6 	 52 	 1 	 mixed
+post: 9 	 0 	 1 	 10 	 0 	 neutral
+post: 10 	 4 	 6 	 18 	 1 	 mixed
+total: 		 84 	 56 	 270 	 23
+--------------------------
+
+MarchForLife
+post: 1 	 0 	 1 	 1 	 0 	 neutral
+post: 2 	 0 	 1 	 1 	 0 	 neutral
+post: 3 	 0 	 1 	 1 	 0 	 neutral
+post: 4 	 0 	 2 	 3 	 0 	 pro-life
+post: 5 	 0 	 1 	 1 	 0 	 neutral
+post: 6 	 1 	 1 	 2 	 0 	 mixed
+post: 7 	 0 	 1 	 1 	 0 	 neutral
+post: 8 	 0 	 3 	 5 	 0 	 pro-life
+total: 		 1 	 11 	 17 	 0
+--------------------------
+
+Abortiondebate
+post: 1 	 21 	 7 	 103 	 11 	 mixed
+post: 2 	 13 	 9 	 29 	 0 	 mixed
+post: 3 	 15 	 6 	 31 	 5 	 mixed
+post: 4 	 9 	 2 	 28 	 2 	 pro-choice
+post: 5 	 21 	 4 	 48 	 5 	 pro-choice
+post: 6 	 35 	 9 	 87 	 7 	 mixed
+post: 7 	 33 	 10 	 92 	 10 	 mixed
+post: 8 	 60 	 12 	 158 	 6 	 pro-choice
+post: 9 	 34 	 2 	 73 	 23 	 pro-choice
+total: 		 241 	 61 	 651 	 69
+--------------------------
+
+ProLifeLibertarians
+post: 1 	 0 	 1 	 1 	 0 	 neutral
+post: 2 	 0 	 1 	 5 	 0 	 neutral
+post: 3 	 1 	 0 	 3 	 0 	 neutral
+post: 4 	 1 	 0 	 1 	 0 	 neutral
+post: 5 	 2 	 0 	 3 	 0 	 pro-choice
+post: 6 	 0 	 2 	 6 	 0 	 pro-life
+post: 7 	 2 	 2 	 8 	 0 	 mixed
+total: 		 6 	 6 	 32 	 0
+--------------------------
+
+AbolishAbortion
+post: 1 	 1 	 6 	 10 	 0 	 pro-life
+post: 2 	 0 	 1 	 1 	 0 	 neutral
+post: 3 	 1 	 0 	 3 	 0 	 neutral
+total: 		 2 	 7 	 28 	 0
+--------------------------
+
+StudentsForLife
+total: 		 0 	 0 	 2 	 0
+--------------------------
+
+RightToLife
+post: 1 	 2 	 9 	 14 	 2 	 pro-life
+post: 2 	 1 	 0 	 1 	 0 	 neutral
+post: 3 	 0 	 2 	 4 	 0 	 pro-life
+post: 4 	 0 	 1 	 1 	 0 	 neutral
+post: 5 	 1 	 0 	 2 	 0 	 neutral
+post: 6 	 1 	 0 	 1 	 0 	 neutral
+post: 7 	 1 	 0 	 11 	 0 	 neutral
+total: 		 6 	 12 	 37 	 2
+--------------------------
+
+AbortionRegret
+total: 		 0 	 0 	 1 	 0
+--------------------------
+
+ProLifeMemes
+post: 1 	 1 	 1 	 9 	 0 	 mixed
+post: 2 	 1 	 2 	 9 	 0 	 mixed
+post: 3 	 1 	 0 	 3 	 0 	 neutral
+post: 4 	 1 	 0 	 4 	 0 	 neutral
+post: 5 	 1 	 0 	 4 	 1 	 neutral
+post: 6 	 1 	 3 	 13 	 0 	 mixed
+total: 		 6 	 6 	 54 	 1
+--------------------------
+
+ProLifeVegan
+post: 1 	 0 	 2 	 15 	 0 	 pro-life
+post: 2 	 0 	 1 	 1 	 0 	 neutral
+post: 3 	 0 	 1 	 2 	 0 	 neutral
+post: 4 	 0 	 1 	 1 	 0 	 neutral
+post: 5 	 0 	 1 	 1 	 0 	 neutral
+total: 		 0 	 6 	 31 	 0
+--------------------------
+
+prochoice
+post: 1 	 9 	 4 	 33 	 3 	 mixed
+post: 2 	 1 	 0 	 3 	 0 	 neutral
+post: 3 	 3 	 0 	 7 	 2 	 pro-choice
+post: 4 	 6 	 0 	 11 	 0 	 pro-choice
+post: 5 	 4 	 4 	 11 	 1 	 mixed
+post: 6 	 4 	 0 	 17 	 1 	 pro-choice
+post: 7 	 20 	 1 	 48 	 10 	 pro-choice
+post: 8 	 1 	 0 	 1 	 0 	 neutral
+post: 9 	 1 	 0 	 3 	 0 	 neutral
+total: 		 49 	 9 	 136 	 17
+--------------------------
+
+abortion
+post: 1 	 3 	 0 	 7 	 0 	 pro-choice
+post: 2 	 2 	 0 	 4 	 0 	 pro-choice
+post: 3 	 2 	 0 	 3 	 0 	 pro-choice
+post: 4 	 2 	 0 	 5 	 0 	 pro-choice
+post: 5 	 3 	 0 	 4 	 0 	 pro-choice
+post: 6 	 4 	 0 	 13 	 0 	 pro-choice
+post: 7 	 1 	 0 	 48 	 0 	 neutral
+total: 		 17 	 0 	 94 	 0
+--------------------------
+
+PlannedParenthood
+post: 1 	 3 	 0 	 8 	 0 	 pro-choice
+post: 2 	 0 	 1 	 16 	 0 	 neutral
+post: 3 	 1 	 0 	 4 	 0 	 neutral
+post: 4 	 0 	 1 	 9 	 0 	 neutral
+post: 5 	 1 	 1 	 6 	 1 	 mixed
+total: 		 5 	 3 	 54 	 1
+--------------------------
+
+ReproJustice
+post: 1 	 0 	 1 	 1 	 0 	 neutral
+post: 2 	 1 	 0 	 1 	 0 	 neutral
+post: 3 	 1 	 0 	 1 	 0 	 neutral
+post: 4 	 1 	 0 	 1 	 0 	 neutral
+post: 5 	 0 	 1 	 1 	 0 	 neutral
+post: 6 	 1 	 0 	 1 	 0 	 neutral
+post: 7 	 0 	 1 	 1 	 0 	 neutral
+total: 		 4 	 3 	 10 	 0
+--------------------------
+
+BirthControl
+post: 1 	 1 	 0 	 6 	 0 	 neutral
+total: 		 1 	 0 	 89 	 0
+--------------------------
+
+LateTermAbortion
+post: 1 	 1 	 0 	 2 	 0 	 neutral
+total: 		 1 	 0 	 3 	 0
+--------------------------
+
+AbortionAccess
+post: 1 	 2 	 0 	 2 	 0 	 pro-choice
+post: 2 	 0 	 1 	 1 	 0 	 neutral
+total: 		 2 	 1 	 4 	 0
+--------------------------
+
+MyBodyMyChoice
+total: 		 0 	 0 	 11 	 0
+--------------------------
+
+WomenHealthcare
+post: 1 	 1 	 0 	 3 	 0 	 neutral
+post: 2 	 1 	 0 	 4 	 0 	 neutral
+post: 3 	 1 	 0 	 1 	 0 	 neutral
+post: 4 	 1 	 0 	 2 	 0 	 neutral
+total: 		 4 	 0 	 17 	 0
+--------------------------
+
+reproductivejustice
+post: 1 	 1 	 0 	 1 	 0 	 neutral
+post: 2 	 2 	 0 	 11 	 0 	 pro-choice
+post: 3 	 1 	 1 	 2 	 0 	 mixed
+post: 4 	 2 	 0 	 2 	 0 	 pro-choice
+post: 5 	 0 	 1 	 1 	 0 	 neutral
+post: 6 	 1 	 0 	 1 	 0 	 neutral
+post: 7 	 3 	 0 	 6 	 0 	 pro-choice
+post: 8 	 1 	 0 	 1 	 0 	 neutral
+post: 9 	 2 	 0 	 6 	 0 	 pro-choice
+total: 		 13 	 2 	 32 	 0
+--------------------------
+
+ReproductiveRights
+post: 1 	 1 	 0 	 2 	 0 	 neutral
+total: 		 1 	 0 	 5 	 0
+--------------------------
+
+SocialJustice
+total: 		 0 	 0 	 32 	 0
+--------------------------
+
+Activism
+total: 		 0 	 0 	 13 	 0
+--------------------------
+
+Progressive
+post: 1 	 8 	 2 	 24 	 3 	 mixed
+post: 2 	 1 	 0 	 1 	 0 	 neutral
+total: 		 9 	 2 	 60 	 3
+--------------------------
+
+Abortiondebate
+post: 1 	 21 	 7 	 103 	 11 	 mixed
+post: 2 	 13 	 9 	 30 	 0 	 mixed
+post: 3 	 16 	 6 	 32 	 5 	 mixed
+post: 4 	 9 	 2 	 29 	 2 	 pro-choice
+post: 5 	 21 	 4 	 48 	 5 	 pro-choice
+post: 6 	 35 	 9 	 87 	 7 	 mixed
+post: 7 	 33 	 10 	 92 	 10 	 mixed
+post: 8 	 60 	 12 	 158 	 6 	 pro-choice
+post: 9 	 35 	 2 	 74 	 23 	 pro-choice
+total: 		 243 	 61 	 655 	 69
+--------------------------
+
+WomensHealth
+post: 1 	 12 	 1 	 18 	 0 	 pro-choice
+post: 2 	 19 	 0 	 98 	 1 	 pro-choice
+post: 3 	 7 	 0 	 13 	 0 	 pro-choice
+post: 4 	 21 	 0 	 61 	 7 	 pro-choice
+post: 5 	 1 	 0 	 2 	 0 	 neutral
+post: 6 	 1 	 0 	 2 	 0 	 neutral
+total: 		 61 	 1 	 220 	 8
+--------------------------
+
+Healthcare
+post: 1 	 3 	 6 	 58 	 1 	 mixed
+post: 2 	 2 	 0 	 4 	 0 	 pro-choice
+total: 		 5 	 6 	 118 	 2
+--------------------------
+
+Feminism
+post: 1 	 18 	 1 	 73 	 0 	 pro-choice
+post: 2 	 63 	 5 	 172 	 26 	 pro-choice
+post: 3 	 1 	 0 	 2 	 0 	 neutral
+post: 4 	 9 	 1 	 17 	 1 	 pro-choice
+post: 5 	 1 	 0 	 11 	 1 	 neutral
+post: 6 	 14 	 0 	 75 	 3 	 pro-choice
+post: 7 	 10 	 1 	 35 	 3 	 pro-choice
+total: 		 116 	 8 	 399 	 34
+--------------------------
+
+FeministTheory
+post: 1 	 7 	 0 	 25 	 3 	 pro-choice
+post: 2 	 0 	 1 	 5 	 0 	 neutral
+total: 		 7 	 1 	 50 	 3
+--------------------------
+
+EqualRights
+post: 1 	 2 	 0 	 2 	 0 	 pro-choice
+total: 		 2 	 0 	 18 	 0
+--------------------------
+
+TwoXChromosomes
+post: 1 	 1 	 0 	 1 	 0 	 neutral
+post: 2 	 52 	 3 	 334 	 20 	 pro-choice
+post: 3 	 56 	 12 	 270 	 22 	 pro-choice
+post: 4 	 203 	 22 	 498 	 58 	 pro-choice
+post: 5 	 10 	 1 	 19 	 3 	 pro-choice
+post: 6 	 37 	 3 	 172 	 22 	 pro-choice
+post: 7 	 37 	 4 	 83 	 7 	 pro-choice
+post: 8 	 0 	 1 	 34 	 3 	 neutral
+post: 9 	 119 	 11 	 483 	 27 	 pro-choice
+total: 		 515 	 57 	 1924 	 162
+--------------------------
+
+PlannedParenthood
+post: 1 	 3 	 0 	 8 	 0 	 pro-choice
+post: 2 	 0 	 1 	 16 	 0 	 neutral
+post: 3 	 1 	 0 	 4 	 0 	 neutral
+post: 4 	 0 	 1 	 9 	 0 	 neutral
+post: 5 	 1 	 1 	 6 	 1 	 mixed
+total: 		 5 	 3 	 54 	 1
+--------------------------

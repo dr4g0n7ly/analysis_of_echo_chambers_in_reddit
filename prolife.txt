@@ -1,20 +1,15 @@
 ProLife
 Post 1: 22 19 45
 Post 2: 0 1 1
-Post 3: 5 0 6
-Post 4: 3 3 6
-Post 5: 2 0 3
-Post 6: ProLife
-Post 1: 22 19 45
-Post 2: 0 1 1
-Post 3: 5 0 6
-Post 4: 3 3 6
-Post 5: 2 0 3
-Post 6: 3 0 3
-Post 7: 0 1 2
-Post 8: 11 2 14
-Post 9: Post 10: 2 2 4
-Overall: 4 Pro-Choice echo chamber, 0 Pro-Life echo chambers, 6 No echo chambers
+Post 3: 7 0 8
+Post 4: 0 1 2
+Post 5: 0 1 1
+Post 6: 3 2 5
+Post 7: 1 0 1
+Post 8: 8 2 11
+Post 9: 3 3 6
+Post 10: 3 0 4
+Overall: 3 Pro-Choice echo chamber, 0 Pro-Life echo chambers, 7 No echo chambers
 
 March for Life
 Post 1: 0 1 1
@@ -30,15 +25,15 @@ Post 10: Overall: 0 Pro-Choice echo chamber, 2 Pro-Life echo chambers, 8 No echo
 Debating Abortion
 Post 1: 0 0 1
 Post 2: 5 1 12
-Post 3: 2 0 3
-Post 4: 13 0 14
-Post 5: 14 1 16
-Post 6: 14 0 15
-Post 7: 4 4 9
-Post 8: 40 6 48
-Post 9: 1 15 18
-Post 10: 24 2 27
-Overall: 7 Pro-Choice echo chamber, 1 Pro-Life echo chambers, 2 No echo chambers
+Post 3: 8 5 14
+Post 4: 4 0 5
+Post 5: 17 4 22
+Post 6: 16 1 18
+Post 7: 15 2 18
+Post 8: 16 0 17
+Post 9: 5 4 10
+Post 10: 41 7 50
+Overall: 7 Pro-Choice echo chamber, 0 Pro-Life echo chambers, 3 No echo chambers
 
 Pro Life Libertarians
 Post 1: Post 2: 0 1 2
@@ -98,13 +93,13 @@ Post 9: Post 10: Overall: 0 Pro-Choice echo chamber, 1 Pro-Life echo chambers, 9
 Debating Abortion
 Post 1: 0 0 1
 Post 2: 5 1 12
-Post 3: 2 0 3
-Post 4: 13 0 14
-Post 5: 14 1 16
-Post 6: 14 0 15
-Post 7: 4 4 9
-Post 8: 40 6 48
-Post 9: 1 15 18
-Post 10: 24 2 27
-Overall: 7 Pro-Choice echo chamber, 1 Pro-Life echo chambers, 2 No echo chambers
+Post 3: 8 5 14
+Post 4: 4 0 5
+Post 5: 17 4 22
+Post 6: 16 1 18
+Post 7: 15 2 18
+Post 8: 16 0 17
+Post 9: 5 4 10
+Post 10: 41 7 50
+Overall: 7 Pro-Choice echo chamber, 0 Pro-Life echo chambers, 3 No echo chambers
 
