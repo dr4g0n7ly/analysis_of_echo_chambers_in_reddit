@@ -1,0 +1,13 @@
+total post_count 299
+prochoice echochamber_count 57
+prochoice echochamber_count 8
+mixed post 39
+
+total_comment_count 10577
+total_relevant_comment_count 4203
+prochoice_comment_count 2569
+prolife_comment_count 672
+
+total_profanity_comment_count 831
+prochoice_profanity_comment_count 569
+prolife_profanity_comment_count 80
