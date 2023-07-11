@@ -1,6 +1,6 @@
 # Analysis-of-Echo-Chambers-in-Reddit
 
-read pre-published paper [here](https://drive.google.com/file/d/1SKZJqI5hUZ8-pzwNTxOXpqSnyUZ3xmMZ/view?usp=sharing)
+Read pre-published paper [here](https://drive.google.com/file/d/1SKZJqI5hUZ8-pzwNTxOXpqSnyUZ3xmMZ/view?usp=sharing)
 
 ### Objective
 
